@@ -45,3 +45,35 @@ Designed for long-term daily use and reliability
 * Lighting configuration and control
 
 * VIA compatibility for real-time key remapping
+
+# Important References & Resources
+
+The following resources were used during the design, implementation, and validation of this project:
+
+* PCB Impedance Calculator (JLCPCB)
+Used to estimate controlled impedance and trace geometry for USB and other high-speed signals during PCB layout.
+https://jlcpcb.com/pcb-impedance-calculator
+
+* Cherry MX Switch Datasheet
+Reference for switch electrical characteristics, pinout, and mechanical dimensions.
+https://cdn.sparkfun.com/datasheets/Components/Switches/MX%20Series.pdf
+
+* WS2812 Addressable LED Datasheet
+Used for implementing custom programmable keyboard lighting and estimating power requirements.
+https://cdn-shop.adafruit.com/datasheets/WS2812.pdf
+
+* LM3940 Low-Dropout Regulator Datasheet (Texas Instruments)
+Reference for 3.3 V power regulation design, dropout characteristics, stability requirements, and decoupling guidelines.
+https://www.ti.com/cn/lit/ds/symlink/lm3940.pdf
+
+* Raspberry Pi Pico / RP2040 Datasheet
+Primary reference for RP2040 pinout, peripherals, electrical characteristics, and boot configuration.
+https://pip-assets.raspberrypi.com/categories/610-raspberry-pi-pico/documents/RP-008307-DS-1-pico-datasheet.pdf
+
+* Würth Elektronik Standoffs (Farnell)
+Mechanical reference for PCB mounting and enclosure integration.
+https://fr.farnell.com/en-FR/wurth-elektronik/9774035151r/standoff-steel-hex-f-f-m2-5-3/dp/3757968
+
+* QMK Firmware Documentation
+Primary reference for firmware configuration, keymaps, macros, and lighting control.
+https://qmk.fm/
