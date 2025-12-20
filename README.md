@@ -72,6 +72,7 @@ The goal of this project was to design and build a fully functional custom mecha
 
 <img width="773" height="683" alt="image" src="https://github.com/user-attachments/assets/3a7b9b79-9aad-4dca-b795-42d21077bccd" />
 <img width="748" height="705" alt="image" src="https://github.com/user-attachments/assets/41c85414-df17-49e2-8a82-6cd87e9d7ce4" />
+<img width="731" height="721" alt="image" src="https://github.com/user-attachments/assets/c5fceda7-441f-4be1-81ec-2dc0b8714218" />
 
 
 # Important References & Resources
