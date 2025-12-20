@@ -48,6 +48,9 @@ Designed for long-term daily use and reliability
 
 <img width="1070" height="758" alt="image" src="https://github.com/user-attachments/assets/fc13ab81-6169-44d6-bf13-efc887fa7a28" />
 <img width="1071" height="755" alt="image" src="https://github.com/user-attachments/assets/18153fd4-c7f9-42df-9760-77cd7755fedc" />
+<img width="1186" height="702" alt="image" src="https://github.com/user-attachments/assets/e9bce1e6-df7e-4b16-bdbd-cdc842c88202" />
+<img width="1173" height="681" alt="image" src="https://github.com/user-attachments/assets/7daa3b2b-0d87-4c5d-a90b-47108583dffe" />
+<img width="920" height="665" alt="image" src="https://github.com/user-attachments/assets/02fc70e7-0b29-4bd2-9fa9-2e66205c004b" />
 
 
 # What?
