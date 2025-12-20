@@ -46,6 +46,10 @@ Designed for long-term daily use and reliability
 
 * VIA compatibility for real-time key remapping
 
+<img width="1070" height="758" alt="image" src="https://github.com/user-attachments/assets/fc13ab81-6169-44d6-bf13-efc887fa7a28" />
+<img width="1071" height="755" alt="image" src="https://github.com/user-attachments/assets/18153fd4-c7f9-42df-9760-77cd7755fedc" />
+
+
 # What?
 The goal of this project was to design and build a fully functional custom mechanical keyboard based on the Raspberry Pi RP2040, serving both as a programmable macro tool to improve workflow efficiency and as a platform to gain hands-on experience with multilayer PCB design, embedded hardware–firmware co-design, and USB HID devices.
 
