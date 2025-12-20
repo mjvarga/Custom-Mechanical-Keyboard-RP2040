@@ -46,6 +46,23 @@ Designed for long-term daily use and reliability
 
 * VIA compatibility for real-time key remapping
 
+# What?
+The goal of this project was to design and build a fully functional custom mechanical keyboard based on the Raspberry Pi RP2040, serving both as a programmable macro tool to improve workflow efficiency and as a platform to gain hands-on experience with multilayer PCB design, embedded hardware–firmware co-design, and USB HID devices.
+
+# How?
+* Designed the keyboard schematic and multilayer PCB in EasyEDA, including USB power input, 3.3 V regulation, and matrix-scanned key inputs
+* Integrated the RP2040 microcontroller, external flash, SWD debug interface, and supporting passive components following reference designs
+* Applied power integrity and EMI-aware layout techniques, including decoupling capacitors, grounding strategy, and via stitching
+* Implemented custom programmable lighting using addressable LEDs, accounting for signal timing and power budgeting
+* Configured and customized QMK/VIA firmware to support programmable keymaps, macros, and lighting control
+* Assembled, programmed, and tested the keyboard to verify USB enumeration, stable power delivery, and reliable key detection
+  
+# Results
+* Produced a fully functional custom keyboard that is used daily for CAD shortcut entry and workflow automation
+* Strengthened understanding of multilayer PCB layout, grounding, and power distribution in embedded systems
+* Gained practical experience reading component datasheets and applying reference designs to real hardware
+* Developed confidence in hardware validation through real-world use, beyond simulation or bench testing
+
 # Important References & Resources
 
 The following resources were used during the design, implementation, and validation of this project:
