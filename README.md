@@ -7,3 +7,41 @@ The keyboard was designed as a USB HID device and includes regulated 3.3 V power
 The completed keyboard is fully functional and used for personal use, primarily for custom shortcut entry in CAD workflows, providing real-world validation of reliability and performance.
 
 This project was inspired by and based on open-source reference designs by Robert Feranec, adapted and extended to gain hands-on experience with embedded systems design, PCB layout, and hardware–firmware co-design.
+
+# Features
+
+* RP2040-based USB HID mechanical keyboard
+
+* Multilayer PCB with dedicated power and ground planes
+
+* Matrix-scanned keys with configurable layouts
+
+* Programmable lighting with firmware-controlled effects
+
+* QMK/VIA support for dynamic keymaps and macros
+
+Designed for long-term daily use and reliability
+
+# Hardware Overview
+
+* Microcontroller: Raspberry Pi RP2040
+
+* Power: USB-powered with on-board 3.3 V regulation and decoupling network
+
+* PCB: Multilayer design with EMI-aware routing and grounding strategy
+
+* Input: Mechanical key switches arranged in a scanned matrix
+
+* Lighting: Addressable LEDs integrated into the PCB and controlled via firmware
+
+* Debugging: SWD interface for programming and debugging
+
+# Firmware
+
+* Fully programmable keymaps and layers
+
+* Custom macros and shortcuts
+
+* Lighting configuration and control
+
+* VIA compatibility for real-time key remapping
